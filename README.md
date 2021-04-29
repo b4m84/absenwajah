@@ -16,4 +16,4 @@ Modul yang diperlukan
 - Opencv -- untuk pengenalan wajah
 - PIL -- image
 - hashlib -- untuk md5 password
-- nummpu -- array
+- numpy -- array
